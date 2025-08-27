@@ -1,0 +1,39 @@
+.header {
+    background: #fff;
+}
+
+.header__inner {
+    margin: 0 auto;
+    padding: 20px 15px;
+    max-width: 1230px;
+}
+
+.header__logo {
+    color: #877e7b;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.header-nav {
+    display: flex;
+}
+
+.logout__link {
+    text-decoration: none;
+}
+
+.logout__link-button {
+    border: none;
+    background-color: #f6f6f4;
+    color: #f2ece7;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+main {
+    background-color: #f2ece7;
+}
+
+

@@ -1,0 +1,24 @@
+.thanks__content{
+    background-color:#fff;
+    margin: 0 auto;
+    padding: 30px 15px;
+    max-width: 1230px;
+    position: relative;
+}
+
+.thanks__heading{
+    position: relative;
+    z-index: 2;
+    text-align: center;
+}
+
+.background{
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 120px;
+    color: #f8f8f8;
+    z-index: 1;
+    width: 100%;
+    text-align: center;
+}

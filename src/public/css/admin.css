@@ -1,0 +1,102 @@
+.admin__content
+
+.admin-heading
+
+.admin-heading__title
+
+/* search-form */
+.search-form
+
+.search-form__item
+
+.search-form__item-input
+
+.search-form__item-gender
+
+.search-form__item-select
+
+.search-form__item-date
+
+.search-form__button
+
+.search-form__button-search
+
+.search-form__button-reset
+
+/* table */
+.contact-table
+
+.contact-table__inner
+
+.contact-table__row
+
+.contact-table__item
+
+.contact-table__name
+
+.contact-table__gender
+
+.contact-table__email
+
+.contact-table__category
+
+.contact-table__header-blank
+
+/* modal */
+.modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #fff;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content {
+    background: #fff;
+    padding: 20px;
+    margin: 10% auto;
+    border-radius: 8px;
+    width: 400px;
+}
+
+/* チェックされていたら表示 */
+.modal-toggle:checked + .modal {
+    display: flex;
+}
+
+/* 閉じるボタン */
+.modal-close {
+    cursor: pointer;
+    float: right;
+    font-size: 20px;
+}
+.modal-header
+
+.modal-body
+
+.modal-table
+
+.modal-table__row
+
+.modal-table_td
+
+.modal-footer
+
+.delete-form
+
+.delete-form__button
+
+.delete-form__button-submit
+
+/* paginate */
+.admin__content .w-5 {
+    width: 16px !important;
+}
+.admin__content .h-5 {
+    height: 16px !important;
+}
+
